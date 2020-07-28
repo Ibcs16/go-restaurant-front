@@ -24,6 +24,7 @@ export const Container = styled.div<IFoodPlateProps>`
 
     img {
       pointer-events: none;
+      max-width: 100%;
       user-select: none;
     }
   }
