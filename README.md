@@ -1,5 +1,4 @@
-# go-restaurant-front
-A Pizza delivery app 🍕
+# A Pizza delivery app 🍕
 
 # Main technologies ✨
 
